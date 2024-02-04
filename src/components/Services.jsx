@@ -4,9 +4,9 @@ import React from "react";
 
 const Services = () => {
   return (
-    <div className="min-h-screen mx-auto py-12 flex flex-col">
+    <div className="min-h-[300px] mx-auto py-12 flex flex-col">
       <div className="px-4 lg:px-0">
-        <h6 className="text-center mb-5">
+        <h6 className="text-center mb-5 text-2xl">
           WELCOME TO RENA AGRICULTURAL SERVICES
         </h6>
         <p className="text-center lg:mx-[200px] mb-10">
@@ -19,9 +19,9 @@ const Services = () => {
           every step of the process.
         </p>
 
-        <h6 className="text-center">WHAT WE DO</h6>
+        <h6 className="text-center text-3xl">WHAT WE DO</h6>
 
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-6 mx-auto max-w-[1000px] p-2 my-5 ">
+        <div className="grid grid-cols-1 lg:grid-cols-4 gap-6 mx-auto max-w-[1000px] p-2 mt-5 ">
           <div className="flex flex-col gap-3 items-center">
             <p className="font-bold text-[20px]">Chicken Processing</p>
             <p className="text-[#8f8f8f]  text-center">
