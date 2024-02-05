@@ -11,7 +11,7 @@ const Products = () => {
 
       <div className='text-center'>
         <button className="text-white px-7 py-3 bg-red-600 hover:bg-orange-600 transition duration-300 ease-in-out">
-          <Link href="/">Products</Link>
+          <Link href="/products">Products</Link>
         </button>
       </div>
     </div>

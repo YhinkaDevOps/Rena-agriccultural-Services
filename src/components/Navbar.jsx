@@ -16,11 +16,6 @@ const Navbar = () => {
         <div className="flex justify-between items-end">
           <Link href="/">
             <button className="hover:opacity-70 flex items-center flex-shrink-0">
-              {/* <img
-                src="/assets/nav-logo.png"
-                className="h-[65px]"
-                alt="Navigation_logo"
-              /> */}
               <Image
                 src="/assets/navigation_logo.png"
                 width={100}
@@ -41,10 +36,10 @@ const Navbar = () => {
                 <Link href="/about-us">ABOUT US</Link>
               </li>
               <li className="text-black font-medium text-sm hover:text-[#900C3F]">
-                <Link href="/terminals">OUR PRODUCTS</Link>
+                <Link href="/products">OUR PRODUCTS</Link>
               </li>
               <li className="text-black font-medium text-sm hover:text-[#900C3F]">
-                <Link href="/contact">CONTACT US</Link>
+                <Link href="/contact-us">CONTACT US</Link>
               </li>
             </ul>
           </div>
@@ -70,13 +65,13 @@ const Navbar = () => {
                   <Link href="/">HOME</Link>
                 </li>
                 <li className="text-white hover:bg-white font-medium hover:text-black rounded-lg p-2">
-                  <Link href="#">ABOUT US</Link>
+                  <Link href="/about-us">ABOUT US</Link>
                 </li>
                 <li className="text-white hover:bg-white font-medium hover:text-black rounded-lg p-2">
-                  <Link href="/terminals">OUR PRODUCTS</Link>
+                  <Link href="/products">OUR PRODUCTS</Link>
                 </li>
                 <li className="text-white hover:bg-white font-medium hover:text-black rounded-lg p-2">
-                  <Link href="/contact">CONTACT US</Link>
+                  <Link href="/contact-us">CONTACT US</Link>
                 </li>
               </ul>
             </div>

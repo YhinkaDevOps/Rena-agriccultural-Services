@@ -10,11 +10,11 @@ const About = () => {
           <Link className="hover:text-[#900C3F]" href="/">
             Home
           </Link>
-          /<span>About Us</span>
+          /<span className="font-semibold">About Us</span>
         </span>
       </div>
 
-      <div className=" px-4 md:px-0 mx-auto max-w-[1000px] py-10 flex flex-col gap-4">
+      <div className="px-4 md:px-0 mx-auto max-w-[1100px] py-10 flex flex-col gap-4">
         <h6 className="text-3xl">Renal Agricultural Services Limited</h6>
         <p className="text-justify">
           <span className="font-bold">

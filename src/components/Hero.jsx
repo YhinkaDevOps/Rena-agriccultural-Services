@@ -25,7 +25,7 @@ const Hero = () => {
 
               <div>
                 <button className="px-7 py-3 bg-red-600 hover:bg-orange-600 transition duration-300 ease-in-out">
-                  <Link href="/">Contact Us</Link>
+                  <Link href="/contact-us">Contact Us</Link>
                 </button>
               </div>
             </div>
@@ -46,7 +46,7 @@ const Hero = () => {
 
               <div>
                 <button className="px-7 py-3 bg-red-600 hover:bg-orange-600 transition duration-300 ease-in-out">
-                  <Link href="/">Our Products</Link>
+                  <Link href="/products">Our Products</Link>
                 </button>
               </div>
             </div>
@@ -66,7 +66,7 @@ const Hero = () => {
               </p>
               <div>
                 <button className="px-7 py-3 bg-red-600 hover:bg-orange-600 transition duration-300 ease-in-out">
-                  <Link href="/">See Our Products</Link>
+                  <Link href="/products">See Our Products</Link>
                 </button>
               </div>
             </div>
