@@ -26,7 +26,7 @@ const Latest = () => {
             <span className="inline-block text-[#ee1c25] text-sm text-right  ">
               <Link
                 className="underline hover:no-underline hover:text-red-300"
-                href="/"
+                href="/about-us"
               >
                 Read More
               </Link>

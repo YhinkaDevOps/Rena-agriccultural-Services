@@ -51,11 +51,6 @@ const Footer = () => {
               Privacy policy
             </button>
           </Link>
-          <Link href="/terminal">
-            <button className="hover:opacity-70 text-sm flex items-center flex-shrink-0 hover:underline">
-              Find a Terminal
-            </button>
-          </Link>
         </div>
 
         {/* Social Links */}

@@ -38,7 +38,7 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="text-black font-medium text-sm hover:text-[#900C3F]">
-                <Link href="#">ABOUT US</Link>
+                <Link href="/about-us">ABOUT US</Link>
               </li>
               <li className="text-black font-medium text-sm hover:text-[#900C3F]">
                 <Link href="/terminals">OUR PRODUCTS</Link>

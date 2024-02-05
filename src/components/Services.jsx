@@ -10,7 +10,7 @@ const Services = () => {
           WELCOME TO RENA AGRICULTURAL SERVICES
         </h6>
         <p className="text-center lg:mx-[200px] mb-10">
-          Situated in Ibadan, Oyo State, Rena Agric is a leading food processing
+          Situated in Ibadan, Oyo State, Rena Agricultural Services is a leading food processing
           company specializing in the transformation of live broiler chicken
           into premium frozen chicken meat. Within our state-of-the-art factory
           and offices, we collaborate closely with multiple local live bird
