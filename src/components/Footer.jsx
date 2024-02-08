@@ -35,7 +35,7 @@ const Footer = () => {
           {/* <span className="text-sm">
             https://chimkasimmatransportservices.vercel.app/
           </span> */}
-          <span className="text-sm">+(234) 08066177724 - enquiry</span>
+          <span className="text-sm">+(234) 08033520427 - enquiry</span>
         </div>
 
         {/* Useful links */}
@@ -57,14 +57,14 @@ const Footer = () => {
         <div className="pt-2 flex flex-col gap-2">
           <h1 className="font-bold">Connect With Us</h1>
           <div className="flex flex-row gap-3">
-            <button className="hover:opacity-70">
+            {/* <button className="hover:opacity-70">
               <Link href="https://web.facebook.com/profile.php?id=100085566767107">
                 <FaFacebook size={20} />
               </Link>
-            </button>
+            </button> */}
 
             <button className="hover:opacity-70">
-              <Link href="https://www.linkedin.com/in/chimkasimma-transport-services-299171255/?originalSubdomain=ng">
+              <Link href="https://www.linkedin.com/in/ayo-salako-8424b120/?originalSubdomain=ng">
                 <FaLinkedin size={20} />
               </Link>
             </button>

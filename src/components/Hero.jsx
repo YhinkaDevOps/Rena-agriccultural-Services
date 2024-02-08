@@ -3,6 +3,7 @@ import Link from "next/link";
 import React, { useRef, useState } from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
+import { motion, useInView, useAnimation, Variant } from "framer-motion";
 
 // Import Swiper styles
 import "swiper/css";
