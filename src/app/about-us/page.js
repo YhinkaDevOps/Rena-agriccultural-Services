@@ -5,7 +5,7 @@ import Link from "next/link";
 const About = () => {
   return (
     <div className="min-h-svh pt-[100px]">
-      <div className="bg-[#f6f6f6] py-5 md:py-10 md:px-[20px] lg:px-[50px] xl:px-[120px] flex flex-col gap-3 ">
+      <div className="about-bg text-white bg-[#f6f6f6] py-12 px-4 md:py-16 md:px-[20px] lg:px-[50px] xl:px-[120px] flex flex-col gap-3 ">
         <h6 className="text-2xl font-semibold px-2">ABOUT US</h6>
         <span className="flex gap-x-3 text-sm items-center px-2">
           <Link className="hover:text-[#900C3F]" href="/">
@@ -16,10 +16,10 @@ const About = () => {
       </div>
 
       <div className="px-4 md:px-0 mx-auto max-w-[1100px] py-10 flex flex-col gap-4">
-        <h6 className="text-3xl">Renal Agricultural Services Limited</h6>
+        <h6 className="text-3xl">Rena Agricultural Services Limited</h6>
         <p className="text-justify">
           <span className="font-bold">
-            Renal Agricultural Services Limited,
+            Rena Agricultural Services Limited,
           </span>{" "}
           located in Ibadan, Oyo State, is a food processing company
           specializing in the conversion of live broiler chicken into

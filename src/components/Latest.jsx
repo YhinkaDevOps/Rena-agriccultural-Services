@@ -7,15 +7,19 @@ const Latest = () => {
       <h5 className="text-center text-4xl mb-8">LATEST</h5>
       <div className=" grid grid-cols-1 lg:grid-cols-3 gap-6 md:gap-4 mx-auto max-w-[1100px] p-2 ">
         <div className="flex flex-col gap-3 items-center rounded-md border shadow-lg shadow-[rgb(4,12,22)]">
-          <img src="https://oatvanafarms.com/images/about/12.jpg" alt="" />
+          <img
+            src="https://oatvanafarms.com/images/about/12.jpg"
+            alt=""
+            className="latest-img"
+          />
 
           <div className="p-2 flex flex-col space-y-2 py-3">
             <p className="font-semibold text-[20px]">
-              Welcome to Renal Agricultural Services
+              Welcome to Rena Agricultural Services
             </p>
             <span className="text-sm">Feb 01, 2019</span>
             <p className="text-[#8f8f8f] text-justify text-sm">
-              Renal Agricultural Services, located in Ibadan, Oyo State, is a
+              Rena Agricultural Services, located in Ibadan, Oyo State, is a
               food processing company specializing in the conversion of live
               broiler chicken into meticulously preserved and packaged frozen
               chicken meat....
@@ -35,10 +39,11 @@ const Latest = () => {
           <img
             src="https://www.poultryworld.net/app/uploads/2022/05/IMG_gro408851-028-848x565.jpg"
             alt=""
+            className="latest-img"
           />
           <div className="p-2 flex flex-col space-y-2 py-3">
             <p className="font-semibold text-[20px]">
-              Renal Agricultural Services Products
+              Rena Agricultural Services Products
             </p>
             <span className="text-sm">Feb 01, 2019</span>
             <p className="text-[#8f8f8f] text-justify text-sm">
@@ -58,7 +63,11 @@ const Latest = () => {
         </div>
 
         <div className="flex flex-col gap-3 items-center rounded-md border shadow-lg shadow-[rgb(4,12,22)]">
-          <img src="https://oatvanafarms.com/images/about/01.jpg" alt="" />
+          <img
+            className="latest-img"
+            src="https://oatvanafarms.com/images/about/01.jpg"
+            alt=""
+          />
 
           <div className="p-2 flex flex-col space-y-2 py-3">
             <p className="font-semibold text-[20px]">Our Mission and Vision</p>

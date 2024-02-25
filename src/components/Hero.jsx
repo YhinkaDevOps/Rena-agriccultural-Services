@@ -25,7 +25,7 @@ const Hero = () => {
               </p>
 
               <div>
-                <button className="px-7 py-3 bg-red-600 hover:bg-orange-600 transition duration-300 ease-in-out">
+                <button className="px-7 py-3 rounded-md bg-red-600 hover:bg-orange-600 transition duration-300 ease-in-out">
                   <Link href="/contact-us">Contact Us</Link>
                 </button>
               </div>
