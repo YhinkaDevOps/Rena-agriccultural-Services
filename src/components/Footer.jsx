@@ -36,6 +36,9 @@ const Footer = () => {
             https://chimkasimmatransportservices.vercel.app/
           </span> */}
           <span className="text-sm">+(234) 08033520427 - enquiry</span>
+          <span className="text-sm">
+            <p>renaagric@gmail.com</p>
+          </span>
         </div>
 
         {/* Useful links */}
@@ -65,7 +68,7 @@ const Footer = () => {
 
             <button className="hover:opacity-70">
               <Link href="https://www.linkedin.com/in/ayo-salako-8424b120/?originalSubdomain=ng">
-                <FaLinkedin size={20} />
+                <FaLinkedin size={30} />
               </Link>
             </button>
           </div>

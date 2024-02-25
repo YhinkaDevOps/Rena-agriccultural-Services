@@ -5,7 +5,7 @@ const Latest = () => {
   return (
     <div className=" bg-[#f5f5f5] min-h-screen mx-auto py-12">
       <h5 className="text-center text-4xl mb-8">LATEST</h5>
-      <div className=" grid grid-cols-1 lg:grid-cols-3 gap-4 mx-auto max-w-[1100px] p-2 ">
+      <div className=" grid grid-cols-1 lg:grid-cols-3 gap-6 md:gap-4 mx-auto max-w-[1100px] p-2 ">
         <div className="flex flex-col gap-3 items-center rounded-md border shadow-lg shadow-[rgb(4,12,22)]">
           <img src="https://oatvanafarms.com/images/about/12.jpg" alt="" />
 
