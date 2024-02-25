@@ -35,7 +35,7 @@ const Products = () => {
             We supply nutritious meat and poultry products to food producers,
             retailers, and food service operators across Nigeria. In the pursuit
             of healthier living, individuals are increasingly incorporating
-            animal protein into their diets for essential nutrients. At Renal
+            animal protein into their diets for essential nutrients. At Rena
             Agricultural Services Limited, our mission is to provide consumers
             with convenient and sustainable protein options, aligning with the
             evolving preferences of those seeking quality nutrition.

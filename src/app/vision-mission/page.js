@@ -37,11 +37,11 @@ const Vision = () => {
           <div className="flex flex-col gap-3">
             <h6 className="text-2xl font-semibold">Our Mission</h6>
             <p>
-              Our goal is to create organically cultivated, nutritious, and
-              cost-effective poultry products, along with other outstanding
-              agricultural services. We aim to achieve this by establishing an
-              efficient mechanized farming system that prioritizes quality for
-              all our valued customers.
+              We exist to provide quality chicken products to our esteemed
+              customers whilst maintaining the highest global food safety
+              standard at competitive prices. We are committed to enhancing food
+              security in our country and providing a means of livelihood to
+              small scale farmers in our host communities.
             </p>
           </div>
         </div>

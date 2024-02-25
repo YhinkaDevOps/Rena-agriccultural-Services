@@ -16,12 +16,11 @@ const Hero = () => {
           <SwiperSlide className="animate__animated animate__bounce">
             <div className="flex flex-col gap-8">
               <h1 className="text-4xl leading-10">
-                Where Purity Meets Process, Excellence &nbsp;
+                Excellence &nbsp;
                 <span className="text-red-600">in Every Bite.</span>
               </h1>
               <p>
-                Our commitment to quality shines through every product, ensuring
-                that your culinary creations are always a notch above.
+                We are committed to satisfying the demand for chicken meat with high quality affordable products.
               </p>
 
               <div>
